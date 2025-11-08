@@ -11,3 +11,5 @@ The main goal is to deconstruct the inner workings of Machine Learning libraries
 *   The **backpropagation** mechanism (`backward` pass) for learning.
 
 The model is trained on a simplified version of the famous **MNIST** dataset for handwritten digit classification.
+
+For a better view, download the .html file and open it in your browser.
